@@ -1,0 +1,65 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/6f45b821-a697-523e-829e-66556e55bf63",
+      "url": "https://www.nytimes.com/2021/12/21/well/live/omicron-variant-symptoms-covid.html",
+      "id": 100000008129516,
+      "asset_id": 100000008129516,
+      "source": "New York Times",
+      "published_date": "2021-12-21",
+      "updated": "2021-12-27 19:34:18",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Coronavirus Omicron Variant;Coronavirus Delta Variant;Coronavirus (2019-nCoV);Disease Rates;Tests (Medical)",
+      "column": null,
+      "byline": "By Melinda Wenner Moyer",
+      "type": "Article",
+      "title": "What Are the Symptoms of Omicron?",
+      "abstract": "While there are subtle differences between the latest coronavirus strain and previous ones, so far the signs of infection look pretty similar.",
+      "des_facet": [
+        "Coronavirus Omicron Variant",
+        "Coronavirus Delta Variant",
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Tests (Medical)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jon Han",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/12/20/well/00well-omicron-symptoms/00well-omicron-symptoms-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/20/well/00well-omicron-symptoms/00well-omicron-symptoms-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/12/20/well/00well-omicron-symptoms/00well-omicron-symptoms-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
